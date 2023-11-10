@@ -1,3 +1,2 @@
-# Ahmad Fanani 20-143 Penambangan Data A
+# Firdatul A'yuni/210411100144
 
-Link Website Streamlit : https://fanani03-uas.streamlit.app/
